@@ -1,0 +1,92 @@
+/*-- Nodi main Templete color --*/
+/*-- Index Page Color  --*/
+	/*-- Start Header Color --*/
+.header{
+	background:url(../assets/images/red_bg/bg.png) repeat;
+	}
+.nav .nav_menu li a:hover{
+	background-color:#930000;
+	}
+	/*-- End Header Color --*/
+.page-header h1{
+	color:#930000;
+	}	
+.lead {
+	color:#930000;
+	}
+	/*-- Start profile --*/
+.profile{
+	background-color:#930000;
+	}
+	/*-- End profile --*/
+	/*-- Start Buy Now --*/
+.buy_now{
+	background:url(../assets/images/red_bg/footer_bg.png) repeat 0% 0%;
+	}
+	/*-- End Buy Now --*/
+#myCarouse2 .glyphicon-chevron-left{
+	background:url(../assets/images/red_bg/contact_bg.png) no-repeat 50% 50%;
+	}
+#myCarouse2 .glyphicon-chevron-right{
+	background:url(../assets/images/red_bg/contact_bg.png) no-repeat 50% 50%;
+	}
+	/*-- Start Our Service --*/
+.tab_position_inner{
+	background:url(../assets/images/red_bg/tab_circle.png) no-repeat 50% 50%;
+	}
+	/*-- End Our Service --*/
+.recent_tab .recent_tittle{
+	background-color:#930000;
+	}
+	/*-- Start Footer --*/
+.footer_top{
+	background:url(../assets/images/red_bg/footer_bg.png) repeat 0% 0%;
+	}
+.footer_bottom{
+	background:url(../assets/images/red_bg/footer_bg.png) repeat 0% 0%;
+	}
+	/*-- End Footer --*/
+/*-- End Index Page Color --*/
+/*-- About Us Page --*/
+.about_us_info{
+	background:url(../assets/images/red_bg/bg.png) repeat 0% 0%;
+	}
+.about_us_info .info_bg{
+	background:url(../assets/images/red_bg/info_bg.png) no-repeat 50% 50%;
+	}
+.center_tab{
+	background-color:#930000;
+	}
+.inner_social_link li a{
+	background:url(../assets/images/red_bg/contact_bg.png) no-repeat 50% 50%;
+	}
+	/*-- Spa service --*/
+.booking_bg{
+	background:url(../assets/images/red_bg/bg.png) repeat 0% 0%;
+	}
+.service_round{
+	background:url(../assets/images/red_bg/bg.png) repeat 0% 0%;
+	}
+	/*-- Portfolio page --*/
+.portfolio-wrapper .bg-device{
+	background: url(../assets/images/red_bg/bg.png) repeat 0% 0%;
+	}
+.filter li a {
+	background: url(../assets/images/red_bg/portfolio1_img_tab.png) no-repeat 50% 50%;
+	}
+.portfolio_image_tab{
+	background:url(../assets/images/red_bg/bg.png) repeat 0% 0%;
+	}
+.portfolio_image_tab  .custom_list li a{
+	background:url(../assets/images/red_bg/portfolio1_img_tab.png) no-repeat 50% 50%;
+	}
+/*-- Blog Page --*/
+.blog_section .sidebar_right .custom_btn_bottom{ 
+	background-color:#930000; 
+	}
+.blog_section .next_page_icon .icon a{
+	background:url(../assets/images/red_bg/contact_bg.png) no-repeat 0% 0%;
+	}
+.contact_address .con_social_icon{
+	background:url(../assets/images/red_bg/contact_bg.png) no-repeat 0% 0%;
+	}

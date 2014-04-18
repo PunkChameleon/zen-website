@@ -1,0 +1,369 @@
+/*-- Home Page Color --*/
+	/*--Index Page Color --*/
+.header{
+	background:url(../assets/images/bg.png) repeat;
+	}
+.nav .nav_menu li a{
+	color:#33CCFF;
+	}
+.nav .nav_menu li a:hover{
+	color:#33CCFF;
+	font-weight: bold;
+	background-color:#18222e;
+	}
+.nav .nav_menu .active{
+	color:#33CCFF;
+	font-weight: bold;
+	}
+.lead {
+	color:#33CCFF;
+	}
+.read_botton{
+	border: 1px solid #33CCFF;
+	}
+.read_botton  a{
+	color: #33CCFF;
+	}
+.read_botton:hover{
+	background-color:#33CCFF;
+	}
+.profile{
+	background-color:#33CCFF;
+	}
+#products .pagination li.current a img{
+	border-top:2px solid #102540;
+	border-bottom:2px solid #102540;
+	}
+.red{
+	background:url(../assets/images/arrow2.png) no-repeat 100% 50%;
+	}
+.red a{
+	color:#33CCFF;
+	}
+#myCarouse2 .glyphicon-chevron-left:hover{
+	background:url(../assets/images/shape.png) no-repeat 50% 50%;
+	}
+#myCarouse2 .glyphicon-chevron-right:hover{
+	background:url(../assets/images/shape.png) no-repeat 50% 50%;
+	}
+.buy_now{
+	background:url(../assets/images/footer_bg.png) repeat 0% 0%;
+	}
+.buy_now h4{
+	color:#fbf6bf;
+	}
+.buy_now .red{
+	color:#33CCFF;
+	}
+.custom_button{
+	color: #fbf6bf;
+	border: 1px solid #fbf6bf;
+	}
+.custom_button:hover{
+	background-color:#33CCFF;
+	}
+.our_service{
+	background-color:#fbf6bf;
+	}
+.tab_position_box a{
+	color:#fbf6bf;
+	}
+.tab_position_inner{
+	background:url(../assets/images/tab_circle.png) no-repeat 50% 50%;
+	}
+.tab_position_box:hover .tab_position_inner{
+	background: url(../assets/images/tab_circle_hover.png) no-repeat 50% 50%;;
+	}
+.tag_html5{
+	background:url(../assets/images/responsive1.png) no-repeat 50% 50%;
+	}
+.tag_cms{
+	background:url(../assets/images/cms.png) no-repeat 50% 50%;
+	}
+.tag_laptop{
+	background:url(../assets/images/laptop.png) no-repeat 50% 50%;
+	}
+.tag_design{
+	background:url(../assets/images/design.png) no-repeat 50% 50%;
+	}
+.tag_ideas{
+	background:url(../assets/images/ideas.png) no-repeat 50% 50%;
+	}
+.tag_photography{
+	background:url(../assets/images/photography.png) no-repeat 50% 50%;
+	}
+.tag_retina{
+	background:url(../assets/images/tab_retina.png) no-repeat 50% 50%;
+	}
+.slider_hover_effect{
+	background-color:#33CCFF;
+	}
+.recent_tab .recent_tittle{
+	background-color:#19293c!important;
+	}
+.recent_tab .recent_tittle{
+	background:url(../assets/images/left_icon.png) no-repeat left center;
+	}
+.recent_tab .right_image{
+	background:url(../assets/images/right_icon.png) no-repeat right center!important;
+	}
+.footer_top{
+	border-bottom:1px solid #33CCFF;
+	background:url(../assets/images/footer_bg.png) repeat 0% 0%;
+	}
+.content_box .style{
+	color:#33CCFF;
+	}
+.social_icon a {
+	color: #ffffff;
+	background:url(../assets/images/shape.png) no-repeat 0% 0%;
+	}
+.social_icon a:hover{
+	background:url(../assets/images/hover-bg.png) no-repeat 0% 0%;
+	color:#33CCFF;
+	}
+.content_box .submit_bottom{
+	color: #33CCFF;
+	border: 1px solid #33CCFF;
+	}
+.content_box .submit_bottom:hover{
+	background-color:#33CCFF;
+	}
+.footer_bottom{
+	background:url(../assets/images/footer_bg.png) repeat 0% 0%;
+	}
+	/*-- End Index Page Color --*/
+	
+	/*-- Saloon Page --*/
+.saloon-service  .tab_bg{
+	background-color:#33CCFF;
+	}
+.price{
+	background:url(../assets/images/price-shape.png) no-repeat 50% 50%;
+	}
+.order_button{
+	background-color:#33CCFF;
+	}
+.service_price{
+	background-color:#33CCFF;
+	}
+	/*-- End Saloon Page --*/
+	
+	/*-- GYM Home --*/
+.indicator_round .active{
+	background-color:#33CCFF!important;
+	}
+.tab_list1 a:hover{
+	background-color:#33CCFF!important;
+	}
+.tab_list2 a:hover{
+	background-color:#33CCFF!important;
+	}
+.gym_icon{
+	background-color:#33CCFF;
+	}
+.price_table:hover .price_table_text_inner_top_bg{
+	background-color:#33CCFF;
+	}
+.price_table:hover .price_table_price_info{
+	color:#33CCFF;
+	}
+.price_table_price_info{
+	background:url(../assets/images/price_table.png) no-repeat 50% 50%;
+	}
+.price_table_btn:hover{
+	background-color:#33CCFF;
+	}
+.table2_bg{
+	background-color:#33CCFF;
+	}
+.price_table_2{
+	background:url(../assets/images/price_table2.png) no-repeat 50% 50%!important;
+	}
+.table2_price{
+	color:#33CCFF;
+	}
+	/*-- End GYM Home --*/
+/*-- End Home Page Color --*/
+
+	/*-- About Us Page --*/
+.about_us_slide{
+	background-color: #fbf6bf;
+	}
+.about_us_slide .about_content{
+	color: #33CCFF;
+	}
+.about_us_info{
+	background-color:#33CCFF;
+	}
+.about_us_info .info_bg{
+	background:url(../assets/images/info_bg.png) no-repeat 50% 50%;
+	}
+.ab_our_mission .ab_color_content{
+	color:#33CCFF;
+	}
+.person_programer{
+	background:url(../assets/images/ab_programer.png) no-repeat;
+	}
+.person_art_director{
+	background:url(../assets/images/art_director.png) no-repeat;
+	}
+.center_tab{
+	background-color:#33CCFF;
+	}
+.ab_tab_box_inner{
+	background-color:#1c2734;
+	}
+.person_programer2{
+	background:url(../assets/images/programer_2.png) no-repeat;
+	}
+.person_designer{
+	background:url(../assets/images/designer.png) no-repeat;
+	}
+.inner_social_link li a{
+	background:url(../assets/images/shape.png) no-repeat 50% 50%;
+	}
+.inner_social_link li a:hover{
+	color:#33CCFF;
+	}
+.our_skill{
+	background-color: #fbf6bf;
+	}
+.design{
+	background-color:#33CCFF;
+	}
+.design_persent{
+	background:url(../assets/images/arrow.png) no-repeat left center;
+	color: #33CCFF;
+	}
+.persent_85{
+	background:url(../assets/images/arrow5.png) no-repeat left center;
+	}
+	/*-- End About Us Page --*/
+
+	/*-- Spa service --*/
+.booking_bg{
+	background:url(../assets/images/bg.png) repeat 0% 0%;
+	}
+.custom_booking_btn{
+	color:#102540;
+	background-color:#33CCFF;
+	}
+.custom_booking_btn:hover{
+	background-color:#33CCFF;
+	}
+	/*-- Saloon Service --*/
+.service_round{
+	background:url(../assets/images/bg.png) repeat 0% 0%;
+	border:none;
+	}
+	/*-- End Saloon Service --*/
+	
+	/*-- Portfolio page --*/
+.portfolio_top{
+	background-color: #fbf6bf;
+	}
+.portfolio_top .portfolio_top_content{
+	color: #33CCFF;
+	}
+.portfolio-wrapper .bg-device{
+	background: url(../assets/images/bg.png) repeat 0% 0%;
+	}
+a.button.gray,
+.filter li a.active {
+    color: #fbf6bf;
+	}
+.filter li a {
+	background: url(../assets/images/portfolio1_img_tab.png) no-repeat 50% 50%;
+	}
+.filter li a:hover{
+	color: #fbf6bf;
+	}
+.items li a .overlay {
+	background-color:#33CCFF;
+}
+.bottom_left{
+	background-color:#33CCFF;
+	}
+.bottom_right{
+	background-color:#fbf6bf;
+	}
+.site_info{
+	color:#33CCFF;
+	}
+.profile_slider{
+	background-color:#fbf6bf!important;
+	}
+.portfolio_image_tab{
+	background:url(../assets/images/bg.png) repeat 0% 0%;
+	}
+/*-- Blog Page --*/
+.portfolio_image_tab  .custom_list li a{
+	background:url(../assets/images/portfolio1_img_tab.png) no-repeat 50% 50%;
+	}
+.blog_section .post_date{
+	color:#33CCFF;
+	}
+.blog_section .custom_read_more_btn{
+	color:#33CCFF;
+	border:1px solid #33CCFF;
+	}
+.blog_section .news_list .color_date {
+	color:#33CCFF;
+	}
+.blog_section .custom_read_more_btn:hover{
+	background-color:#33CCFF;
+	}
+.blog_pagination{
+	background-color:#fbf6bf;
+	}
+.blog_section .sidebar_right .custom_btn_bottom{ 
+	background-color:#33CCFF; 
+	}
+.next_page_icon .icon a{
+	background:url(../assets/images/shape.png) no-repeat 0% 0%;
+	}
+.next_page_icon .icon a:hover{
+	background:url(../assets/images/contact_bg.png) no-repeat 0% 0%;
+	}
+.active_pagination{
+	background:url(../assets/images/contact_bg.png) no-repeat!important;
+	}
+	
+.blog_section .admin_content .admin_color{
+	background-color:#33CCFF;
+	}
+.blog_section .comment_head .comment_number{
+	color:#33CCFF;
+	}
+.blog_section .comment_row .reply{
+	color: #33CCFF;
+	}
+.blog_section .form-group .comment_custom_button{
+	border:1px solid #33CCFF;
+	color:#33CCFF;
+	}
+.blog_section .form-group .comment_custom_button:hover{
+	background-color:#33CCFF;
+	}
+	/*-- Contact Us --*/
+.contact_address .con_site{
+	color:#33CCFF;
+	}
+.contact_address .con_social_icon  a{
+	background:url(../assets/images/shape.png) no-repeat 0% 0%;
+	}
+.contact_address .con_social_icon a:hover{
+	background:url(../assets/images/contact_bg.png) no-repeat 0% 0%;
+	}
+.contact_form{
+	background-color:#fbf6bf;
+	}
+.contact_form .form_button .con_custom_button{
+	color:#33CCFF;
+	border: 1px solid #33CCFF;
+	}
+.contact_form .form_button .con_custom_button:hover{
+	background-color:#33CCFF;
+	}
+	/*-- End Contact --*/

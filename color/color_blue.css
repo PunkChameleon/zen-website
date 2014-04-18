@@ -1,0 +1,271 @@
+/*-- Home Page Color --*/
+	/*--Index Page Color --*/
+.lead {
+	color:#02baff!important;
+	}
+.read_botton{
+	border: 1px solid #02baff;
+	}
+.read_botton  a{
+	color: #02baff;
+	}
+.read_botton:hover{
+	background-color:#02baff;
+	}
+.profile{
+	background-color:#02baff;
+	}
+.red{
+	background:url(../assets/images/blue_bg/arrow2.png) no-repeat 100% 50%;
+	}
+.red a{
+	color:#02baff;
+	}
+#myCarouse2 .glyphicon-chevron-left:hover{
+	background:url(../assets/images/blue_bg/hover_shape.png) no-repeat 50% 50%;
+	}
+#myCarouse2 .glyphicon-chevron-right:hover{
+	background:url(../assets/images/blue_bg/hover_shape.png) no-repeat 50% 50%;
+	}
+.buy_now .red{
+	color:#02baff;
+	}
+.custom_button:hover{
+	background-color:#02baff;
+	}
+.tab_position_box:hover .tab_position_inner{
+	background: url(../assets/images/blue_bg/tab_circle_hover.png) no-repeat 50% 50%;;
+	}
+.tag_html5{
+	background:url(../assets/images/blue_bg/responsive1.png) no-repeat 50% 50%;
+	}
+.tag_cms{
+	background:url(../assets/images/blue_bg/cms.png) no-repeat 50% 50%;
+	}
+.tag_laptop{
+	background:url(../assets/images/blue_bg/laptop.png) no-repeat 50% 50%;
+	}
+.tag_design{
+	background:url(../assets/images/blue_bg/design.png) no-repeat 50% 50%;
+	}
+.tag_ideas{
+	background:url(../assets/images/blue_bg/ideas.png) no-repeat 50% 50%;
+	}
+.tag_photography{
+	background:url(../assets/images/blue_bg/photography.png) no-repeat 50% 50%;
+	}
+.tag_retina{
+	background:url(../assets/images/blue_bg/tab_retina.png) no-repeat 50% 50%;
+	}
+.slider_hover_effect{
+	background-color:#02baff;
+	}
+.recent_tab .recent_tittle{
+	background:url(../assets/images/blue_bg/left_icon.png) no-repeat left center;
+	}
+.recent_tab .right_image{
+	background:url(../assets/images/blue_bg/right_icon.png) no-repeat right center!important;
+	}
+.footer_top{
+	border-bottom:1px solid #02baff;
+	}
+.content_box .style{
+	color:#02baff;
+	}
+.social_icon a {
+	color: #ffffff;
+	background:url(../assets/images/blue_bg/hover_shape.png) no-repeat 0% 0%;
+	}
+.social_icon a:hover{
+	color:#02baff;
+	}
+.content_box .submit_bottom{
+	color: #02baff;
+	border: 1px solid #02baff;
+	}
+.content_box .submit_bottom:hover{
+	background-color:#02baff;
+	}
+	/*--End Index Page Color --*/
+	
+	/*-- Saloon Page --*/
+.saloon-service  .tab_bg{
+	background-color:#02baff;
+	}
+.price{
+	background:url(../assets/images/blue_bg/price-shape.png) no-repeat 50% 50%;
+	}
+.order_button{
+	background-color:#02baff;
+	}
+.service_price{
+	background-color:#02baff;
+	}
+	/*-- End Saloon Page --*/
+	
+	/*-- GYM Home --*/
+.indicator_round .active{
+	background-color:#02baff!important;
+	}
+.tab_list1 a:hover{
+	background-color:#02baff!important;
+	}
+.tab_list2 a:hover{
+	background-color:#02baff!important;
+	}
+.gym_icon{
+	background-color:#02baff;
+	}
+.price_table:hover .price_table_text_inner_top_bg{
+	background-color:#02baff;
+	}
+.price_table:hover .price_table_price_info{
+	color:#02baff;
+	}
+.price_table_price_info{
+	background:url(../assets/images/blue_bg/price_table.png) no-repeat 50% 50%;
+	}
+.price_table_btn:hover{
+	background-color:#02baff;
+	}
+.table2_bg{
+	background-color:#02baff;
+	}
+.table2_price{
+	color:#02baff;
+	}
+	/*-- End GYM Home --*/
+/*-- Home Page Color --*/
+
+	/*-- About Us Page --*/
+.about_us_slide .about_content{
+	color: #02baff;
+	}
+.about_us_info{
+	background-color:#02baff;
+	}
+.ab_our_mission .ab_color_content{
+	color:#02baff;
+	}
+.center_tab{
+	background-color:#02baff;
+	}
+.person_programer{
+	background:url(../assets/images/blue_bg/ab_programer.png) no-repeat;
+	}
+.person_art_director{
+	background:url(../assets/images/blue_bg/art_director.png) no-repeat;
+	}
+.person_programer2{
+	background:url(../assets/images/blue_bg/programer_2.png) no-repeat;
+	}
+.person_designer{
+	background:url(../assets/images/blue_bg/designer.png) no-repeat;
+	}
+.design_persent{
+	background:url(../assets/images/blue_bg/arrow.png) no-repeat left center;
+	color: #02baff;
+	}
+.inner_social_link li a{
+	background:url(../assets/images/blue_bg/hover_shape.png) no-repeat 50% 50%;
+	}
+.inner_social_link li a:hover{
+	color:#02baff;
+	}
+.design{
+	background-color:#02baff;
+	}
+.design_persent{
+	background:url(../assets/images/blue_bg/arrow.png) no-repeat left center;
+	color: #02baff;
+	}
+.persent_85{
+	background:url(../assets/images/blue_bg/arrow5.png) no-repeat left center;
+	}
+	/*-- About Us Page --*/
+	
+	/*-- Service Page --*/
+.custom_booking_btn{
+	color:#102540;
+	background-color:#02baff;
+	}
+.custom_booking_btn:hover{
+	background-color:#02baff;
+	}
+	/*-- End Service Page --*/
+	
+	/*-- Portfolio Page --*/
+.portfolio_top .portfolio_top_content{
+	color: #02baff;
+	}
+.filter li a {
+	background: url(../assets/images/blue_bg/portfolio1_img_tab.png) no-repeat 50% 50%;
+	}
+.items li a .overlay {
+	background-color:#02baff;
+	}
+.bottom_left{
+	background-color:#02baff;
+	}
+.site_info{
+	color:#02baff;
+	}
+	/*-- End Portfolio Page --*/
+	
+	/*-- Blog Page --*/
+.portfolio_image_tab  .custom_list li a{
+	background:url(../assets/images/blue_bg/portfolio1_img_tab.png) no-repeat 50% 50%;
+	}
+.blog_section .post_date{
+	color:#02baff;
+	}
+.blog_section .custom_read_more_btn{
+	color:#02baff;
+	border:1px solid #02baff;
+	}
+.blog_section .custom_read_more_btn:hover{
+	background-color:#02baff;
+	}
+.blog_section .sidebar_right .custom_btn_bottom{ 
+	background-color:#02baff; 
+	}
+.blog_section .news_list .color_date {
+	color:#02baff;
+	}
+.next_page_icon .icon a{
+	background:url(../assets/images/blue_bg/hover_shape.png) no-repeat 0% 0%;
+	}
+	
+.blog_section .admin_content .admin_color{
+	background-color:#02baff;
+	}
+.blog_section .comment_head .comment_number{
+	color:#02baff;
+	}
+.blog_section .comment_row .reply{
+	color: #02baff;
+	}
+.blog_section .form-group .comment_custom_button{
+	border:1px solid #02baff;
+	color:#02baff;
+	}
+.blog_section .form-group .comment_custom_button:hover{
+	background-color:#02baff;
+	}
+	/*-- End Blog Page --*/
+	
+	/*-- Contact Page --*/
+.contact_address .con_site{
+	color:#02baff;
+	}
+.contact_address .con_social_icon  a{
+	background:url(../assets/images/blue_bg/hover_shape.png) no-repeat 0% 0%;
+	}
+.contact_form .form_button .con_custom_button{
+	color:#02baff;
+	border: 1px solid #02baff;
+	}
+.contact_form .form_button .con_custom_button:hover{
+	background-color:#02baff;
+	}
+	/*-- Contact Page --*/

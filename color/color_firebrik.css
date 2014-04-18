@@ -1,0 +1,271 @@
+/*-- Home Page Color --*/
+	/*--Index Page Color --*/
+.lead {
+	color:#b22222!important;
+	}
+.read_botton{
+	border: 1px solid #b22222;
+	}
+.read_botton  a{
+	color: #b22222;
+	}
+.read_botton:hover{
+	background-color:#b22222;
+	}
+.profile{
+	background-color:#b22222;
+	}
+.red{
+	background:url(../assets/images/firebrik_bg/arrow2.png) no-repeat 100% 50%;
+	}
+.red a{
+	color:#b22222;
+	}
+#myCarouse2 .glyphicon-chevron-left:hover{
+	background:url(../assets/images/firebrik_bg/hover_shape.png) no-repeat 50% 50%;
+	}
+#myCarouse2 .glyphicon-chevron-right:hover{
+	background:url(../assets/images/firebrik_bg/hover_shape.png) no-repeat 50% 50%;
+	}
+.buy_now .red{
+	color:#b22222;
+	}
+.custom_button:hover{
+	background-color:#b22222;
+	}
+.tab_position_box:hover .tab_position_inner{
+	background: url(../assets/images/firebrik_bg/tab_circle_hover.png) no-repeat 50% 50%;;
+	}
+.tag_html5{
+	background:url(../assets/images/firebrik_bg/responsive1.png) no-repeat 50% 50%;
+	}
+.tag_cms{
+	background:url(../assets/images/firebrik_bg/cms.png) no-repeat 50% 50%;
+	}
+.tag_laptop{
+	background:url(../assets/images/firebrik_bg/laptop.png) no-repeat 50% 50%;
+	}
+.tag_design{
+	background:url(../assets/images/firebrik_bg/design.png) no-repeat 50% 50%;
+	}
+.tag_ideas{
+	background:url(../assets/images/firebrik_bg/ideas.png) no-repeat 50% 50%;
+	}
+.tag_photography{
+	background:url(../assets/images/firebrik_bg/photography.png) no-repeat 50% 50%;
+	}
+.tag_retina{
+	background:url(../assets/images/firebrik_bg/tab_retina.png) no-repeat 50% 50%;
+	}
+.slider_hover_effect{
+	background-color:#b22222;
+	}
+.recent_tab .recent_tittle{
+	background:url(../assets/images/firebrik_bg/left_icon.png) no-repeat left center;
+	}
+.recent_tab .right_image{
+	background:url(../assets/images/firebrik_bg/right_icon.png) no-repeat right center!important;
+	}
+.footer_top{
+	border-bottom:1px solid #b22222;
+	}
+.content_box .style{
+	color:#b22222;
+	}
+.social_icon a {
+	color: #ffffff;
+	background:url(../assets/images/firebrik_bg/hover_shape.png) no-repeat 0% 0%;
+	}
+.social_icon a:hover{
+	color:#b22222;
+	}
+.content_box .submit_bottom{
+	color: #b22222;
+	border: 1px solid #b22222;
+	}
+.content_box .submit_bottom:hover{
+	background-color:#b22222;
+	}
+	/*--End Index Page Color --*/
+	
+	/*-- Saloon Page --*/
+.saloon-service  .tab_bg{
+	background-color:#b22222;
+	}
+.price{
+	background:url(../assets/images/firebrik_bg/price-shape.png) no-repeat 50% 50%;
+	}
+.order_button{
+	background-color:#b22222;
+	}
+.service_price{
+	background-color:#b22222;
+	}
+	/*-- End Saloon Page --*/
+	
+	/*-- GYM Home --*/
+.indicator_round .active{
+	background-color:#b22222!important;
+	}
+.tab_list1 a:hover{
+	background-color:#b22222!important;
+	}
+.tab_list2 a:hover{
+	background-color:#b22222!important;
+	}
+.gym_icon{
+	background-color:#b22222;
+	}
+.price_table:hover .price_table_text_inner_top_bg{
+	background-color:#b22222;
+	}
+.price_table:hover .price_table_price_info{
+	color:#b22222;
+	}
+.price_table_price_info{
+	background:url(../assets/images/firebrik_bg/price_table.png) no-repeat 50% 50%;
+	}
+.price_table_btn:hover{
+	background-color:#b22222;
+	}
+.table2_bg{
+	background-color:#b22222;
+	}
+.table2_price{
+	color:#b22222;
+	}
+	/*-- End GYM Home --*/
+/*-- Home Page Color --*/
+
+	/*-- About Us Page --*/
+.about_us_slide .about_content{
+	color: #b22222;
+	}
+.about_us_info{
+	background-color:#b22222;
+	}
+.ab_our_mission .ab_color_content{
+	color:#b22222;
+	}
+.center_tab{
+	background-color:#b22222;
+	}
+.person_programer{
+	background:url(../assets/images/firebrik_bg/ab_programer.png) no-repeat;
+	}
+.person_art_director{
+	background:url(../assets/images/firebrik_bg/art_director.png) no-repeat;
+	}
+.person_programer2{
+	background:url(../assets/images/firebrik_bg/programer_2.png) no-repeat;
+	}
+.person_designer{
+	background:url(../assets/images/firebrik_bg/designer.png) no-repeat;
+	}
+.design_persent{
+	background:url(../assets/images/firebrik_bg/arrow.png) no-repeat left center;
+	color: #b22222;
+	}
+.inner_social_link li a{
+	background:url(../assets/images/firebrik_bg/hover_shape.png) no-repeat 50% 50%;
+	}
+.inner_social_link li a:hover{
+	color:#b22222;
+	}
+.design{
+	background-color:#b22222;
+	}
+.design_persent{
+	background:url(../assets/images/firebrik_bg/arrow.png) no-repeat left center;
+	color: #b22222;
+	}
+.persent_85{
+	background:url(../assets/images/firebrik_bg/arrow5.png) no-repeat left center;
+	}
+	/*-- About Us Page --*/
+	
+	/*-- Service Page --*/
+.custom_booking_btn{
+	color:#102540;
+	background-color:#b22222;
+	}
+.custom_booking_btn:hover{
+	background-color:#b22222;
+	}
+	/*-- End Service Page --*/
+	
+	/*-- Portfolio Page --*/
+.portfolio_top .portfolio_top_content{
+	color: #b22222;
+	}
+.filter li a {
+	background: url(../assets/images/firebrik_bg/portfolio1_img_tab.png) no-repeat 50% 50%;
+	}
+.items li a .overlay {
+	background-color:#b22222;
+	}
+.bottom_left{
+	background-color:#b22222;
+	}
+.site_info{
+	color:#b22222;
+	}
+	/*-- End Portfolio Page --*/
+	
+	/*-- Blog Page --*/
+.portfolio_image_tab  .custom_list li a{
+	background:url(../assets/images/firebrik_bg/portfolio1_img_tab.png) no-repeat 50% 50%;
+	}
+.blog_section .post_date{
+	color:#b22222;
+	}
+.blog_section .custom_read_more_btn{
+	color:#b22222;
+	border:1px solid #b22222;
+	}
+.blog_section .custom_read_more_btn:hover{
+	background-color:#b22222;
+	}
+.blog_section .sidebar_right .custom_btn_bottom{ 
+	background-color:#b22222; 
+	}
+.blog_section .news_list .color_date {
+	color:#b22222;
+	}
+.next_page_icon .icon a{
+	background:url(../assets/images/firebrik_bg/hover_shape.png) no-repeat 0% 0%;
+	}
+	
+.blog_section .admin_content .admin_color{
+	background-color:#b22222;
+	}
+.blog_section .comment_head .comment_number{
+	color:#b22222;
+	}
+.blog_section .comment_row .reply{
+	color: #b22222;
+	}
+.blog_section .form-group .comment_custom_button{
+	border:1px solid #b22222;
+	color:#b22222;
+	}
+.blog_section .form-group .comment_custom_button:hover{
+	background-color:#b22222;
+	}
+	/*-- End Blog Page --*/
+	
+		/*-- Contact Page --*/
+.contact_address .con_site{
+	color:#b22222;
+	}
+.contact_address .con_social_icon  a{
+	background:url(../assets/images/firebrik_bg/hover_shape.png) no-repeat 0% 0%;
+	}
+.contact_form .form_button .con_custom_button{
+	color:#b22222;
+	border: 1px solid #b22222;
+	}
+.contact_form .form_button .con_custom_button:hover{
+	background-color:#b22222;
+	}
+	/*-- Contact Page --*/

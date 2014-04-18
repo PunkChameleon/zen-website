@@ -1,0 +1,248 @@
+
+/*--Gym Home Page Stylesheet --*/
+.gym_slider{
+	border-bottom:none;
+	padding: 0px;
+	}
+.gym_slider img{
+	margin:0 auto;
+	}
+.gym_row_top{
+	margin-bottom:75px;
+	}
+.gym_row_middle{
+	margin-bottom:108px;
+	}
+.gym_signup_form{
+	width:330px;
+	position:absolute;
+	z-index:100;
+	bottom:0%;
+	right:0%;
+	text-align:left;
+	opacity:0.7;
+	filter:alpha(opacity=70); /* For IE8 and earlier */
+	}
+.gym_signup_btn{
+	text-shadow: #ffffff 1px 2px 2px!important;
+	}
+	/*-- Start Gym Container --*/
+.indicator_round li{
+	border: 1px solid #1B0202;
+	}
+.indicator_round .active{
+	background-color:#a0ce4e!important;
+	}
+.gmy_quote{
+	text-align:center;
+	margin-top:58px;
+	margin-bottom:25px;
+	}
+.gym_section .quoto_image{
+	margin:0 auto;
+	}
+.ceo_quote_text{
+	font-size:12px;
+	line-height:20px;
+	font-style:italic;
+	text-align:center;
+	margin-bottom: 25px;
+	}
+.ceo{
+	text-transform:uppercase;
+	text-align:center;
+	}
+.ceo_name{
+	font-size:12px;
+	line-height:20px;
+	font-weight:bold;
+	font-style:italic;
+	}
+.gmy_work_title{
+	font-size:16px;
+	line-height:20px;
+	font-weight:bold;
+	margin-bottom:20px;
+	}
+.gmy_work_text{
+	font-size:12px;
+	line-height:20px;
+	font-weight:normal;
+	}
+	/*-- Start Tab panel --*/
+.tab_ul{
+	border-bottom:none;
+	}
+.tab_list1{
+	border-top:1px solid #dddddd;
+	border-left:1px solid #dddddd;
+	border-right:1px solid #dddddd;
+	}
+.tab_list2{
+	border-top:1px solid #dddddd;
+	border-right:1px solid #dddddd;
+	}
+.tab_list1 a{
+	font-size:16px;
+	line-height:20px;
+	font-weight:bold;
+	display:block;
+	color:#1c2734;
+	border:none!important;
+	margin-right:0px!important;
+	}
+.tab_list2 a{
+	font-size:16px;
+	line-height:20px;
+	font-weight:bold;
+	display:block;
+	color:#1c2734;
+	border:none!important;
+	margin-right:0px!important;
+	}
+.tab_list1 a:hover{
+	border:none!important;
+	color:#ffffff;
+	background-color:#a0ce4e!important;
+	border-radius:0px;
+	}
+.tab_list2 a:hover{
+	border:none!important;
+	color:#ffffff;
+	background-color:#a0ce4e!important;
+	border-radius:0px;
+	}
+.tab_panel_border{
+	border:1px solid #dddddd;
+	padding:20px 30px 30px 30px;
+	}
+.gym_tab_image{
+	float:left;
+	margin-right: 30px;
+	}
+/*-- Start Tab panel --*/
+
+.gym_task_list .gym_list{
+	margin:0;
+	padding:0;
+	list-style:none;
+	margin:5px 0px;
+	}
+.gym_task_list .gym_list li a{
+	text-decoration:none;
+	cursor:default;
+	font-size:12px;
+	line-height:20px;
+	font-weight:bold;
+	color:#1c2734;
+	}
+.gym_icon{
+	color:#ffffff;
+	background-color:#a0ce4e;
+	padding:5px;
+	border-radius:50%;
+	font-size:8px;
+	}
+	/*--price table --*/
+.price_list{
+	margin:105px 0px
+	}
+.price_table{
+	float:left;
+	width:25%;
+	background-color:#ffffff;
+	text-align:center;
+	border:2px solid #ededed;
+	}
+.price_table:hover{
+	border:1px solid #dddddd!important;
+	box-shadow:#c8c8c8 0px 2px 25px;
+	display:block;
+	cursor:pointer;
+	zoom: 1.1;
+	margin-top: -20px;
+	border-radius:5px;
+	}
+.price_table:hover .price_table_text_inner_top_bg{
+	background-color:#a0ce4e;
+	}
+.price_table:hover .price_table_price_info{
+	background:url(../assets/images/price_table2.png) no-repeat 50% 50%!important;
+	color:#a0ce4e;
+	}
+	/*-- Active Price table --*/  
+.active_price_table{
+	float:left;
+	width:25%;
+	background-color:#ffffff;
+	text-align:center;
+	border:2px solid #ededed;
+	display:block;
+	cursor:pointer;
+	zoom:1.1;
+	margin-top:-20px;
+	}
+.price_table_text_top{
+	height:200px;
+	}
+.price_table_text_inner_top_bg{
+	background-color:#1c2734;
+	color:#ffffff;
+	text-align:center;
+	font-size:24px;
+	padding: 15px 0px 80px;
+	}
+.price_table_sign_up_wrap{
+	margin-bottom: 7px;
+	}
+.price_table_price{
+	margin-top: -55px;
+	}
+.table2_bg{
+	background-color:#a0ce4e;
+	}
+.price_table_2{
+	background:url(../assets/images/price_table2.png) no-repeat 50% 50%!important;
+	}
+.table2_price{
+	color:#a0ce4e;
+	}
+.price_table_price_info{
+	background:url(../assets/images/price_table.png) no-repeat 50% 50%;
+	height:115px;
+	text-align:center;
+	font-size:30px;
+	font-family: 'Calibri', sans-serif;
+	color:#000;
+	font-weight:bold;
+	padding-top:35px;
+	}
+.price_table_btn{
+	background-color:#1c2734;
+	color:#ffffff;
+	text-transform:uppercase;
+	border:none;
+	font-size:12px;
+	font-weight:bold;
+	padding:10px 25px;
+	}
+.price_table_btn:hover{
+	background-color:#a0ce4e;
+	color:#ffffff;
+	border:none;
+	}
+.price_table_text_bottom{
+	padding:0px 20px 0px 20px;
+	}
+.price_table_text{
+	font-size:12px;
+	line-height:20px;
+	text-align:center;
+	border-bottom:1px solid #dddddd;
+	padding: 12px 0px;
+	font-weight: bold;
+	}
+.price_table_text:last-child{
+	border-bottom:none;
+	}
+/*-- End Gym Container --*/

@@ -1,0 +1,99 @@
+
+/*-- Contact us Style Sheet --*/
+
+/*-- Start Contact Us Address --*/
+.contact_address{
+	background-color:#ffffff;
+	padding:60px 0px;
+	}
+.contact_address .con_address_title{
+	text-transform: uppercase;
+	font-size:16px;
+	line-height:36px;
+	font-weight: bold;
+	color: #102540;
+	
+	}
+.contact_address .con_address_content{
+	font-size: 12px;
+	line-height:20px;
+	}
+.contact_address .con_address{
+	color:#242f3c;
+	font-size:12px;
+	line-height:20px;
+	margin-bottom: 60px;
+	}
+.contact_address .con_site{
+	margin-top: 13px;
+	color:#a0ce4e;
+	font-size:12px;
+	line-height:20px;
+	}
+/*-- Start social icon --*/
+.contact_address .con_social_icon{
+	background:url(../assets/images/contact_bg.png) no-repeat 0% 0%;
+	width:49px;
+	height:49px;
+	padding-right:60px;
+	float:left;
+	}
+.contact_address .con_social_icon a{
+	color:#ffffff;
+	width: 49px;
+	height: 49px;
+	font-size: 22px;
+	display: block;
+	text-decoration: none;
+	line-height: 50px;
+	text-align:center;
+	}
+.contact_address .con_social_icon a:hover{
+	background:url(../assets/images/hover-bg.png) no-repeat 0% 0%;
+	-webkit-transition: all 200ms ease-in;
+	-o-transition: all 200ms ease-in;
+	-moz-transition: all 200ms ease-in;
+	}
+/*-- End Social icon --*/
+
+/*--Start Contact Form --*/
+.contact_form{
+	background-color:#fcfbfb;
+	padding:80px 0px;
+	}
+.contact_form .line1{
+	margin-bottom: 28px;
+	}
+.contact_form .line1 .line_space{
+	padding:25px 10px 25px 20px;
+	border:none;
+	}
+.contact_form .form_button{
+	margin-bottom:25px;
+	}
+.contact_form .form_button .con_custom_button{
+	background: transparent;
+	color:#b3d873;
+	width: 200px;
+	height: 50px;
+	border: 1px solid #b3d873;
+	}
+.contact_form .form_button .con_custom_button:hover{
+	background-color:#a0ce4e;
+	color:#ffffff;
+	font-weight:bold;
+	}
+.contact_form .textarea_space{
+	height: 285px;
+	border: none;
+	}
+/*--End Contact Form --*/
+
+/*-- Start Contact Map --*/
+.contact_map iframe{
+	width:100%;
+	margin:0 auto;
+	padding:0;
+	}
+/*-- End Contact Map --*/
+/*-- End Contact Us Address --*/

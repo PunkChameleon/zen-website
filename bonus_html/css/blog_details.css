@@ -1,0 +1,139 @@
+/*--  Start Style Sheet for Blog Page Single --*/
+
+/*-- Start Blog Single Top --*/
+.portfolio_top .single{
+	font-size:24px;
+	line-height:48px;
+	font-weight:bold;
+	}
+/*-- End Blog Single Top --*/
+
+/*-- Start Comment Box --*/
+.blog_section .admin_content{
+	background-color:#d4d4d4;
+	margin:0px 0px 25px 0px;
+	}
+.blog_section .admin_content .admin_color{
+	background-color:#a0ce4e;
+	padding:0px;
+	}
+.blog_section .admin_info{
+	font-size:16px;
+	line-height:36px;
+	margin-bottom:0px;
+	padding: 48px 0px;
+	color:#ffffff;
+	text-align:center;
+	cursor:pointer;
+	}
+.blog_section .admin_info_change{
+	font-size:16px;
+	line-height:36px;
+	margin-bottom:0px;
+	padding: 47px 0px;
+	color:#ffffff;
+	text-align:center;
+	background-color:#102540;
+	cursor:pointer;
+	}
+.blog_details_colom{
+	padding:0px;
+	}
+.blog_section .single_post{
+	margin-bottom:100px;
+	}
+.blog_section .single_post_title{
+	text-transform:uppercase;
+	font-size:16px;
+	font-weight:bold;
+	line-height:36px;
+	color:#102540;
+	}
+.blog_section .single_post_content{
+	font-size:12px;
+	line-height:20px;
+	color:#707783;
+	}
+.blog_section .comment_head{
+	font-size:16px;
+	line-height:36px;
+	color:#102540;
+	}
+.blog_section .comment_head .comment_number{
+	color:#bcdc8a;
+	}
+.blog_section .comment_row{
+	margin:40px 0px;
+	}
+.blog_section .comment_row .reply{
+	float: right;
+	font-size: 16px;
+	line-height: 36px;
+	color: #a0ce4e;
+	}
+.blog_hexagon{
+	width:155px;
+	height:134px;
+	float:left;
+	margin-right: 20px;
+	}
+.blog_hexagon_img img{
+	width:155px;
+	height:134px;
+	}
+.blog_section .author_name{
+	font-size:16px;
+	font-weight:bold;
+	line-height:36px;
+	color:#102540;
+	}
+.blog_section .author_content{
+	font-size:12px;
+	line-height:20px;
+	font-weight:normal;
+	}
+.blog_section .comment_section{
+	margin-top:50px;
+	}
+.blog_section .comment_title{
+	text-transform:uppercase;
+	font-size:24px;
+	line-height:36px;
+	color:#102540;
+	font-weight:normal;
+	margin-bottom:20px;
+	}
+.blog_section .form-group .name_box{
+	font-size:14px;
+	line-height:48px;
+	color:#102540;
+	border:none;
+	height:auto;
+	background-color:#fcfbfb;
+	padding-left: 25px;
+	margin-bottom:30px;
+	}
+.blog_section .form-group .comment_box{
+	font-size:14px;
+	line-height:48px;
+	border:none;
+	background-color:#fcfbfb;
+	padding-left: 25px;
+	height:275px;
+	}
+.blog_section .form-group .comment_custom_button{
+	float:right;
+	font-size:18px;
+	line-height:48px;
+	background:transparent;
+	width:240px;
+	border:1px solid #a0ce4e;
+	color:#a0ce4e;
+	margin:30px 0px 80px 0px;
+	border-radius:7px;
+	}
+.blog_section .form-group .comment_custom_button:hover{
+	background-color:#a0ce4e;
+	color:#ffffff;
+	}
+/*-- End Comment Box --*/
